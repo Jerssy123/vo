@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Resultado Básica Superior</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <style>
+    body {
+      padding: 1.2rem;
+    }
+    .container {
+      text-align: center;
+    }
+  </style>
+
+  <!-- Especialidad Básica Superior -->
+  <div class="container" id="esp-bs">
+    <img src="vt-nived.png" class="vt-nived" alt="Logo Vocatest" />
+    <p id="text-espbs">¡Felicidades! </p>
+    <p id="text-espbs">Tu especialidad recomendada es:</p>
+    <div id="resultado-bs" class="resultado-area"></div>
+    <div id="descripcion-bs" class="subtitulo-area"></div>
+    <div style="display: flex; gap: 10px; justify-content: center; margin-top: 30px;">
+      <button id="btn-carreras-bs">Carreras Universitarias</button>
+    </div>
+    <div class="boton-fijo">
+      <button onclick="window.history.back()">Volver</button>
+    </div>
+  </div>
+
+  <script src="scripts/ans-bs.js"></script>
+
+  <footer>
+    <p>VocaTest, 2025. Toda la información ha sido recopilada y RESUMIDA de medios oficiales, se recomienda investigar más.</p>
+  </footer>
+
+</body>
+</html>

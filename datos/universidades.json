@@ -1,0 +1,611 @@
+[
+  {
+    "carrera": "Ingeniería en Computación",
+    "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "puntaje": 726,
+    "campo": "Los ingenieros en computación pueden trabajar en empresas de tecnología, desarrollando software y sistemas informáticos. También pueden laborar en instituciones financieras y gubernamentales. Su campo ocupacional incluye el desarrollo de aplicaciones y sistemas de software. Pueden trabajar en equipos de desarrollo de software y sistemas.",
+    "area": "informatica",
+    "malla": [
+      "Cálculo Avanzado",
+      "Álgebra Lineal",
+      "Física Aplicada",
+      "Programación Orientada a Objetos",
+      "Estructuras de Datos",
+      "Algoritmos y Complejidad",
+      "Bases de Datos Relacionales"
+    ]
+  },
+  {
+    "carrera": "Ingeniería en Computación",
+    "universidad": "Universidad Politécnica Salesiana (UPS)",
+    "puntaje": 641,
+    "campo": "Los ingenieros en computación pueden trabajar en empresas de tecnología, desarrollando software y sistemas informáticos. También pueden laborar en instituciones financieras y gubernamentales. Su campo ocupacional incluye el desarrollo de aplicaciones y sistemas de software. Pueden trabajar en equipos de desarrollo de software y sistemas.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Computación",
+    "universidad": "Universidad Católica Santiago de Guayaquil (UCSG)",
+    "puntaje": 791,
+    "campo": "Los ingenieros en computación pueden trabajar en empresas de tecnología, desarrollando software y sistemas informáticos. También pueden laborar en instituciones financieras y gubernamentales. Su campo ocupacional incluye el desarrollo de aplicaciones y sistemas de software. Pueden trabajar en equipos de desarrollo de software y sistemas.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Computación",
+    "universidad": "Universidad de Especialidades Espíritu Santo (UEES)",
+    "puntaje": 866,
+    "campo": "Los ingenieros en computación pueden trabajar en empresas de tecnología, desarrollando software y sistemas informáticos. También pueden laborar en instituciones financieras y gubernamentales. Su campo ocupacional incluye el desarrollo de aplicaciones y sistemas de software. Pueden trabajar en equipos de desarrollo de software y sistemas.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Software",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 776,
+    "campo": "Los ingenieros en software pueden trabajar en empresas de tecnología, desarrollando aplicaciones y sistemas de software. También pueden laborar en startups y empresas de consultoría. Su campo ocupacional incluye el diseño y desarrollo de software. Pueden trabajar en equipos de desarrollo de software y sistemas.",
+    "area": "informatica",
+    "malla": [
+      "Cálculo Diferencial",
+      "Álgebra Lineal y Geometría",
+      "Programación en Java",
+      "Estructuras de Datos y Algoritmos",
+      "Desarrollo de Aplicaciones Web",
+      "Diseño de Software"
+    ]
+  },
+  {
+    "carrera": "Ingeniería en Software",
+    "universidad": "Universidad Politécnica Salesiana (UPS)",
+    "puntaje": 850,
+    "campo": "Los ingenieros en software pueden trabajar en empresas de tecnología, desarrollando aplicaciones y sistemas de software. También pueden laborar en startups y empresas de consultoría. Su campo ocupacional incluye el diseño y desarrollo de software. Pueden trabajar en equipos de desarrollo de software y sistemas.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Software",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 900,
+    "campo": "Los ingenieros en software pueden trabajar en empresas de tecnología, desarrollando aplicaciones y sistemas de software. También pueden laborar en startups y empresas de consultoría. Su campo ocupacional incluye el diseño y desarrollo de software. Pueden trabajar en equipos de desarrollo de software y sistemas.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Ciencias de Datos e Inteligencia Artificial",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 816,
+    "campo": "Los ingenieros en ciencias de datos e inteligencia artificial pueden trabajar en empresas de tecnología y finanzas. Pueden analizar y procesar grandes cantidades de datos. Su campo ocupacional incluye el desarrollo de modelos predictivos y soluciones de inteligencia artificial. Pueden trabajar en equipos de análisis de datos y desarrollo de modelos.",
+    "area": "informatica",
+    "malla": [
+      "Cálculo y Análisis de Datos",
+      "Álgebra Lineal y Estadística",
+      "Programación en Python",
+      "Análisis de Datos y Machine Learning",
+      "Visualización de Datos"
+    ]
+  },
+  {
+    "carrera": "Ingeniería en Ciencias de Datos e Inteligencia Artificial",
+    "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "puntaje": 726,
+    "campo": "Los ingenieros en ciencias de datos e inteligencia artificial pueden trabajar en empresas de tecnología y finanzas. Pueden analizar y procesar grandes cantidades de datos. Su campo ocupacional incluye el desarrollo de modelos predictivos y soluciones de inteligencia artificial. Pueden trabajar en equipos de análisis de datos y desarrollo de modelos.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Redes y Telecomunicaciones",
+    "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "puntaje": 969,
+    "campo": "Los ingenieros en redes y telecomunicaciones pueden trabajar en empresas de telecomunicaciones y tecnología. Pueden diseñar y implementar redes de comunicación. Su campo ocupacional incluye la seguridad y gestión de redes. Pueden trabajar en equipos de diseño y implementación de redes.",
+    "area": "informatica",
+    "malla": [
+      "Cálculo y Física Aplicada",
+      "Electrónica y Circuitos",
+      "Programación en C++",
+      "Redes de Computadoras y Protocolos de Comunicación"
+    ]
+  },
+  {
+    "carrera": "Ingeniería en Redes y Telecomunicaciones",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 799,
+    "campo": "Los ingenieros en redes y telecomunicaciones pueden trabajar en empresas de telecomunicaciones y tecnología. Pueden diseñar y implementar redes de comunicación. Su campo ocupacional incluye la seguridad y gestión de redes. Pueden trabajar en equipos de diseño y implementación de redes.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Redes y Telecomunicaciones",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 739,
+    "campo": "Los ingenieros en redes y telecomunicaciones pueden trabajar en empresas de telecomunicaciones y tecnología. Pueden diseñar y implementar redes de comunicación. Su campo ocupacional incluye la seguridad y gestión de redes. Pueden trabajar en equipos de diseño y implementación de redes.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Sistemas de Información",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 790,
+    "campo": "Los ingenieros en sistemas de información pueden trabajar en empresas de tecnología y finanzas. Pueden diseñar y implementar sistemas de información. Su campo ocupacional incluye la gestión y análisis de datos. Pueden trabajar en equipos de desarrollo de sistemas y análisis de datos.",
+    "area": "informatica",
+    "malla": [
+      "Cálculo y Álgebra Lineal",
+      "Programación en Java",
+      "Bases de Datos y Análisis de Sistemas",
+      "Diseño de Sistemas y Gestión de Proyectos"
+    ]
+  },
+  {
+    "carrera": "Ingeniería en Mecatrónica",
+    "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "puntaje": 806,
+    "campo": "Los ingenieros en mecatrónica pueden trabajar en empresas de manufactura y tecnología. Pueden diseñar y desarrollar sistemas mecatrónicos. Su campo ocupacional incluye la automatización y control de sistemas. Pueden trabajar en equipos de diseño y desarrollo de productos.",
+    "area": "informatica",
+    "malla": [
+      "Cálculo y Física Aplicada",
+      "Mecánica y Electrónica",
+      "Robótica y Control de Sistemas",
+      "Diseño de Productos Mecatrónicos"
+    ]
+  },
+  {
+    "carrera": "Ingeniería en Mecatrónica",
+    "universidad": "Universidad Politécnica Salesiana (UPS)",
+    "puntaje": 810,
+    "campo": "Los ingenieros en mecatrónica pueden trabajar en empresas de manufactura y tecnología. Pueden diseñar y desarrollar sistemas mecatrónicos. Su campo ocupacional incluye la automatización y control de sistemas. Pueden trabajar en equipos de diseño y desarrollo de productos.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Mecatrónica",
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "puntaje": 706,
+    "campo": "Los ingenieros en mecatrónica pueden trabajar en empresas de manufactura y tecnología. Pueden diseñar y desarrollar sistemas mecatrónicos. Su campo ocupacional incluye la automatización y control de sistemas. Pueden trabajar en equipos de diseño y desarrollo de productos.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Desarrollo de Videojuegos",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 764,
+    "campo": "Los desarrolladores de videojuegos pueden trabajar en empresas de entretenimiento y tecnología. Pueden diseñar y desarrollar juegos para diversas plataformas. Su campo ocupacional incluye la creación de contenido visual y multimedia. Pueden trabajar en equipos de desarrollo de juegos.",
+    "area": "informatica",
+    "malla": [
+      "Cálculo y Álgebra Lineal",
+      "Programación en C++ y Java",
+      "Gráficos y Animación 3D",
+      "Física de Juegos e Inteligencia Artificial"
+    ]
+  },
+  {
+    "carrera": "Diseño Multimedia / Diseño Gráfico",
+    "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "puntaje": 828,
+    "campo": "Los diseñadores multimedia y gráficos pueden trabajar en empresas de publicidad y marketing. Pueden crear contenido visual y multimedia. Su campo ocupacional incluye la creación de materiales visuales y multimedia. Pueden trabajar en equipos de diseño y marketing.",
+    "area": "informatica",
+    "malla": [
+      "Dibujo y Color",
+      "Composición y Diseño Gráfico",
+      "Programación Web y Desarrollo de Aplicaciones",
+      "Animación y Efectos Visuales"
+    ]
+  },
+  {
+    "carrera": "Diseño Multimedia / Diseño Gráfico",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 894,
+    "campo": "Los diseñadores multimedia y gráficos pueden trabajar en empresas de publicidad y marketing. Pueden crear contenido visual y multimedia. Su campo ocupacional incluye la creación de materiales visuales y multimedia. Pueden trabajar en equipos de diseño y marketing.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Diseño Multimedia / Diseño Gráfico",
+    "universidad": "Universidad Politécnica Salesiana (UPS)",
+    "puntaje": 788,
+    "campo": "Los diseñadores multimedia y gráficos pueden trabajar en empresas de publicidad y marketing. Pueden crear contenido visual y multimedia. Su campo ocupacional incluye la creación de materiales visuales y multimedia. Pueden trabajar en equipos de diseño y marketing.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Diseño Multimedia / Diseño Gráfico",
+    "universidad": "Universidad de Especialidades Espíritu Santo (UEES)",
+    "puntaje": null,
+    "campo": "Los diseñadores multimedia y gráficos pueden trabajar en empresas de publicidad y marketing. Pueden crear contenido visual y multimedia. Su campo ocupacional incluye la creación de materiales visuales y multimedia. Pueden trabajar en equipos de diseño y marketing.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Diseño Multimedia / Diseño Gráfico",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 722,
+    "campo": "Los diseñadores multimedia y gráficos pueden trabajar en empresas de publicidad y marketing. Pueden crear contenido visual y multimedia. Su campo ocupacional incluye la creación de materiales visuales y multimedia. Pueden trabajar en equipos de diseño y marketing.",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Producción y Animación 3D",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 764,
+    "campo": "Los productores y animadores 3D pueden trabajar en empresas de entretenimiento y tecnología. Pueden crear efectos visuales y animaciones para películas y videojuegos. Su campo ocupacional incluye la creación de contenido visual y multimedia. Pueden trabajar en equipos de producción y animación.",
+    "area": "informatica",
+    "malla": [
+      "Cálculo y Álgebra Lineal",
+      "Modelado 3D y Animación",
+      "Iluminación y Renderizado",
+      "Texturizado y Shading"
+    ]
+  },
+  {
+    "carrera": "Biología",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 841,
+    "campo": "El biólogo puede trabajar en investigación, conservación, educación y gestión ambiental. Desarrolla estudios sobre organismos vivos y ecosistemas, participa en proyectos de sostenibilidad y protección ambiental. Puede integrarse en laboratorios, universidades y ONG’s. Su labor es clave para el avance del conocimiento biológico y la conservación de la biodiversidad.",
+    "area": "ciencias",
+    "malla": [
+      "Biología General y Celular",
+      "Química General y Orgánica",
+      "Física y Cálculo",
+      "Genética y Evolución"
+    ]
+  },
+  {
+    "carrera": "Biología",
+    "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "puntaje": 726,
+    "campo": "El biólogo puede trabajar en investigación, conservación, educación y gestión ambiental. Desarrolla estudios sobre organismos vivos y ecosistemas, participa en proyectos de sostenibilidad y protección ambiental. Puede integrarse en laboratorios, universidades y ONG’s. Su labor es clave para el avance del conocimiento biológico y la conservación de la biodiversidad.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Ingeniería Química",
+    "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "puntaje": 771,
+    "campo": "El ingeniero químico se especializa en la producción, control y optimización de procesos químicos. Puede trabajar en industrias de alimentos, farmacéutica, petroquímica y manufactura. Su labor incluye investigación y desarrollo de nuevos productos y procesos. También puede liderar proyectos de innovación tecnológica en la industria química.",
+    "area": "ciencias",
+    "malla": [
+      "Cálculo y Física Aplicada",
+      "Química General y Termodinámica",
+      "Procesos Químicos y Diseño de Plantas"
+    ]
+  },
+  {
+    "carrera": "Ingeniería Química",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 832,
+    "campo": "El ingeniero químico se especializa en la producción, control y optimización de procesos químicos. Puede trabajar en industrias de alimentos, farmacéutica, petroquímica y manufactura. Su labor incluye investigación y desarrollo de nuevos productos y procesos. También puede liderar proyectos de innovación tecnológica en la industria química.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Ingeniería en Alimentos",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 766,
+    "campo": "El profesional en Ingeniería en Alimentos puede trabajar en la producción, control de calidad y desarrollo de nuevos productos alimenticios. Participa en investigación y gestión de procesos seguros y sostenibles. Puede desempeñarse en industrias alimentarias, laboratorios de control y empresas de nutrición. También contribuye a la innovación y seguridad en la industria alimentaria.",
+    "area": "ciencias",
+    "malla": [
+      "Cálculo y Física Aplicada",
+      "Química de Alimentos y Microbiología",
+      "Tecnología de Alimentos y Seguridad Alimentaria"
+    ]
+  },
+  {
+    "carrera": "Ingeniería en Alimentos",
+    "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "puntaje": 677,
+    "campo": "El profesional en Ingeniería en Alimentos puede trabajar en la producción, control de calidad y desarrollo de nuevos productos alimenticios. Participa en investigación y gestión de procesos seguros y sostenibles. Puede desempeñarse en industrias alimentarias, laboratorios de control y empresas de nutrición. También contribuye a la innovación y seguridad en la industria alimentaria.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Biomedicina",
+    "universidad": "Universidad Politécnica Salesiana (UPS)",
+    "puntaje": 746,
+    "campo": "El biomédico puede trabajar en investigación, diagnóstico clínico, desarrollo de tratamientos y biotecnología. Participa en laboratorios, hospitales y empresas farmacéuticas. Su labor es clave en la innovación de técnicas médicas y desarrollo de nuevas terapias. También contribuye a la mejora de la salud pública y la investigación biomédica.",
+    "area": "ciencias",
+    "malla": [
+      "Biología Molecular y Celular",
+      "Química General y Orgánica",
+      "Física y Cálculo",
+      "Genética y Medicina Regenerativa"
+    ]
+  },
+  {
+    "carrera": "Nutrición y Dietética",
+    "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "puntaje": 850,
+    "campo": "El nutricionista puede trabajar en clínicas, hospitales, empresas de alimentos y educación. Diseña programas de alimentación saludable, planes dietéticos y campañas de educación nutricional. Participa en investigación y desarrollo de alimentos funcionales. Su labor es clave para la promoción de la salud y prevención de enfermedades.",
+    "area": "ciencias",
+    "malla": [
+      "Biología General y Nutrición",
+      "Química General y Dietética",
+      "Planificación de Menús y Educación Nutricional"
+    ]
+  },
+  {
+    "carrera": "Nutrición y Dietética",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 884,
+    "campo": "El nutricionista puede trabajar en clínicas, hospitales, empresas de alimentos y educación. Diseña programas de alimentación saludable, planes dietéticos y campañas de educación nutricional. Participa en investigación y desarrollo de alimentos funcionales. Su labor es clave para la promoción de la salud y prevención de enfermedades.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Nutrición y Dietética",
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "puntaje": null,
+    "campo": "El nutricionista puede trabajar en clínicas, hospitales, empresas de alimentos y educación. Diseña programas de alimentación saludable, planes dietéticos y campañas de educación nutricional. Participa en investigación y desarrollo de alimentos funcionales. Su labor es clave para la promoción de la salud y prevención de enfermedades.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Nutrición y Dietética",
+    "universidad": "Universidad de Especialidades Espíritu Santo (UEES)",
+    "puntaje": null,
+    "campo": "El nutricionista puede trabajar en clínicas, hospitales, empresas de alimentos y educación. Diseña programas de alimentación saludable, planes dietéticos y campañas de educación nutricional. Participa en investigación y desarrollo de alimentos funcionales. Su labor es clave para la promoción de la salud y prevención de enfermedades.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Nutrición y Dietética",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 896,
+    "campo": "El nutricionista puede trabajar en clínicas, hospitales, empresas de alimentos y educación. Diseña programas de alimentación saludable, planes dietéticos y campañas de educación nutricional. Participa en investigación y desarrollo de alimentos funcionales. Su labor es clave para la promoción de la salud y prevención de enfermedades.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Bioquímica y Farmacia",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 861,
+    "campo": "Los bioquímicos y farmacéuticos pueden trabajar en empresas farmacéuticas y laboratorios de investigación. Pueden estudiar la química y biología de los seres vivos, desarrollando medicamentos y tratamientos. Su campo ocupacional incluye el desarrollo y control de calidad de productos farmacéuticos. Pueden integrarse en equipos de investigación y desarrollo.",
+    "area": "ciencias",
+    "malla": [
+      "Química General y Orgánica",
+      "Bioquímica y Farmacología",
+      "Física y Cálculo",
+      "Química Farmacéutica"
+    ]
+  },
+  {
+    "carrera": "Ingeniería Agropecuaria",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 805,
+    "campo": "Los ingenieros agropecuarios pueden trabajar en empresas agrícolas y ganaderas. Pueden diseñar y desarrollar sistemas de producción y gestión de recursos naturales. Su campo ocupacional incluye la producción y gestión de recursos naturales. Pueden trabajar en equipos de producción y gestión.",
+    "area": "ciencias",
+    "malla": [
+      "Cálculo y Física Aplicada",
+      "Agronomía y Zootecnia",
+      "Producción Animal y Vegetal",
+      "Economía Agrícola"
+    ]
+  },
+  {
+    "carrera": "Ingeniería Agropecuaria",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": null,
+    "campo": "Los ingenieros agropecuarios pueden trabajar en empresas agrícolas y ganaderas. Pueden diseñar y desarrollar sistemas de producción y gestión de recursos naturales. Su campo ocupacional incluye la producción y gestión de recursos naturales. Pueden trabajar en equipos de producción y gestión.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Medicina",
+    "universidad": "Universidad de Especialidades Espíritu Santo (UEES)",
+    "puntaje": 944,
+    "campo": "Los médicos pueden trabajar en hospitales, clínicas y centros de salud. Pueden diagnosticar y tratar enfermedades, participar en investigación médica y coordinar programas de salud. Su campo ocupacional incluye atención directa al paciente y prevención de enfermedades. Pueden formar parte de equipos médicos multidisciplinarios.",
+    "area": "ciencias",
+    "malla": [
+      "Anatomía y Fisiología Humana",
+      "Bioquímica y Farmacología",
+      "Medicina Interna y Cirugía"
+    ]
+  },
+  {
+    "carrera": "Medicina",
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "puntaje": 944,
+    "campo": "Los médicos pueden trabajar en hospitales, clínicas y centros de salud. Pueden diagnosticar y tratar enfermedades, participar en investigación médica y coordinar programas de salud. Su campo ocupacional incluye atención directa al paciente y prevención de enfermedades. Pueden formar parte de equipos médicos multidisciplinarios.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Medicina",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 968,
+    "campo": "Los médicos pueden trabajar en hospitales, clínicas y centros de salud. Pueden diagnosticar y tratar enfermedades, participar en investigación médica y coordinar programas de salud. Su campo ocupacional incluye atención directa al paciente y prevención de enfermedades. Pueden formar parte de equipos médicos multidisciplinarios.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Medicina",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 894,
+    "campo": "Los médicos pueden trabajar en hospitales, clínicas y centros de salud. Pueden diagnosticar y tratar enfermedades, participar en investigación médica y coordinar programas de salud. Su campo ocupacional incluye atención directa al paciente y prevención de enfermedades. Pueden formar parte de equipos médicos multidisciplinarios.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Veterinaria",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 775,
+    "campo": "Los veterinarios pueden trabajar en clínicas, hospitales veterinarios y laboratorios. Pueden diagnosticar y tratar enfermedades en animales. Su campo ocupacional incluye investigación y cuidado de animales. Pueden participar en programas de salud pública y control sanitario.",
+    "area": "ciencias",
+    "malla": [
+      "Anatomía y Fisiología Animal",
+      "Bioquímica y Patología",
+      "Medicina Veterinaria y Cirugía"
+    ]
+  },
+  {
+    "carrera": "Veterinaria",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 845,
+    "campo": "Los veterinarios pueden trabajar en clínicas, hospitales veterinarios y laboratorios. Pueden diagnosticar y tratar enfermedades en animales. Su campo ocupacional incluye investigación y cuidado de animales. Pueden participar en programas de salud pública y control sanitario.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Veterinaria",
+    "universidad": "Universidad Agraria del Ecuador (UAE)",
+    "puntaje": 769,
+    "campo": "Los veterinarios pueden trabajar en clínicas, hospitales veterinarios y laboratorios. Pueden diagnosticar y tratar enfermedades en animales. Su campo ocupacional incluye investigación y cuidado de animales. Pueden participar en programas de salud pública y control sanitario.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Veterinaria",
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "puntaje": 848,
+    "campo": "Los veterinarios pueden trabajar en clínicas, hospitales veterinarios y laboratorios. Pueden diagnosticar y tratar enfermedades en animales. Su campo ocupacional incluye investigación y cuidado de animales. Pueden participar en programas de salud pública y control sanitario.",
+    "area": "ciencias"
+  },
+  {
+    "carrera": "Contabilidad y Auditoría",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 680,
+    "campo": "Los contadores y auditores pueden trabajar en empresas de contabilidad y auditoría. Pueden diseñar y aplicar sistemas contables y de auditoría. Su campo ocupacional incluye análisis de información financiera y control de recursos. Pueden trabajar en equipos contables y de auditoría.",
+    "area": "contabilidad",
+    "malla": [
+      "Contabilidad Básica y Avanzada",
+      "Matemáticas Financieras y Estadística",
+      "Auditoría Interna y Externa"
+    ]
+  },
+  {
+    "carrera": "Contabilidad y Auditoría",
+    "universidad": "Universidad Politécnica Salesiana (UPS)",
+    "puntaje": 732,
+    "campo": "Los contadores y auditores pueden trabajar en empresas de contabilidad y auditoría. Pueden diseñar y aplicar sistemas contables y de auditoría. Su campo ocupacional incluye análisis de información financiera y control de recursos. Pueden trabajar en equipos contables y de auditoría.",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Auditoría",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 635,
+    "campo": "Los contadores y auditores pueden trabajar en empresas de contabilidad y auditoría. Pueden diseñar y aplicar sistemas contables y de auditoría. Su campo ocupacional incluye análisis de información financiera y control de recursos. Pueden trabajar en equipos contables y de auditoría.",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Auditoría",
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "puntaje": null,
+    "campo": "Los contadores y auditores pueden trabajar en empresas de contabilidad y auditoría. Pueden diseñar y aplicar sistemas contables y de auditoría. Su campo ocupacional incluye análisis de información financiera y control de recursos. Pueden trabajar en equipos contables y de auditoría.",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Administración de Empresas",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 680,
+    "campo": "Los administradores de empresas pueden trabajar en empresas de diversos sectores. Pueden diseñar y aplicar estrategias de gestión y liderazgo. Su campo ocupacional incluye dirección de empresas y gestión de proyectos. Pueden trabajar en equipos de gestión y dirección.",
+    "area": "contabilidad",
+    "malla": [
+      "Matemáticas Financieras y Economía",
+      "Contabilidad Básica y Administración",
+      "Finanzas Corporativas y Marketing"
+    ]
+  },
+  {
+    "carrera": "Administración de Empresas",
+    "universidad": "Universidad Politécnica Salesiana (UPS)",
+    "puntaje": 601,
+    "campo": "Los administradores de empresas pueden trabajar en empresas de diversos sectores. Pueden diseñar y aplicar estrategias de gestión y liderazgo. Su campo ocupacional incluye dirección de empresas y gestión de proyectos. Pueden trabajar en equipos de gestión y dirección.",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Administración de Empresas",
+    "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "puntaje": 770,
+    "campo": "Los administradores de empresas pueden trabajar en empresas de diversos sectores. Pueden diseñar y aplicar estrategias de gestión y liderazgo. Su campo ocupacional incluye dirección de empresas y gestión de proyectos. Pueden trabajar en equipos de gestión y dirección.",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Economía",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 525,
+    "campo": "Los economistas pueden trabajar en instituciones de investigación, bancos y organismos internacionales. Pueden analizar tendencias económicas y elaborar modelos financieros. Su campo ocupacional incluye asesoría económica y desarrollo de políticas. Pueden participar en equipos de análisis y planificación.",
+    "area": "contabilidad",
+    "malla": [
+      "Microeconomía y Macroeconomía",
+      "Estadística y Matemáticas",
+      "Econometría y Economía Internacional"
+    ]
+  },
+  {
+    "carrera": "Economía",
+    "universidad": "ECOTEC",
+    "puntaje": 980,
+    "campo": "Los economistas pueden trabajar en instituciones de investigación, bancos y organismos internacionales. Pueden analizar tendencias económicas y elaborar modelos financieros. Su campo ocupacional incluye asesoría económica y desarrollo de políticas. Pueden participar en equipos de análisis y planificación.",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Finanzas",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 495,
+    "campo": "Los profesionales de finanzas pueden trabajar en bancos, empresas y consultoras financieras. Pueden diseñar y ejecutar estrategias de inversión y gestión de riesgos. Su campo ocupacional incluye análisis financiero y planificación estratégica. Pueden trabajar en equipos financieros.",
+    "area": "contabilidad",
+    "malla": [
+      "Matemáticas Financieras y Economía",
+      "Contabilidad Básica y Finanzas Corporativas",
+      "Inversiones y Gestión de Riesgos"
+    ]
+  },
+  {
+    "carrera": "Comercio Exterior",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 768,
+    "campo": "Los profesionales de comercio exterior pueden trabajar en empresas de importación y exportación. Pueden diseñar estrategias comerciales y gestionar operaciones internacionales. Su campo ocupacional incluye análisis de mercados y logística internacional. Pueden trabajar en equipos de comercio exterior.",
+    "area": "contabilidad",
+    "malla": [
+      "Economía Internacional y Comercio Internacional",
+      "Matemáticas Financieras y Logística",
+      "Marketing Internacional"
+    ]
+  },
+  {
+    "carrera": "Comercio Exterior",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 693,
+    "campo": "Los profesionales de comercio exterior pueden trabajar en empresas de importación y exportación. Pueden diseñar estrategias comerciales y gestionar operaciones internacionales. Su campo ocupacional incluye análisis de mercados y logística internacional. Pueden trabajar en equipos de comercio exterior.",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Negocios Internacionales",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 930,
+    "campo": "Los profesionales de negocios internacionales pueden trabajar en empresas multinacionales y consultoras. Pueden desarrollar estrategias comerciales globales y analizar mercados internacionales. Su campo ocupacional incluye gestión de negocios y relaciones internacionales. Pueden integrarse en equipos de dirección internacional.",
+    "area": "contabilidad",
+    "malla": [
+      "Economía Internacional y Negocios Internacionales",
+      "Marketing y Finanzas",
+      "Estrategia de Negocios Internacionales"
+    ]
+  },
+  {
+    "carrera": "Negocios Internacionales",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 794,
+    "campo": "Los profesionales de negocios internacionales pueden trabajar en empresas multinacionales y consultoras. Pueden desarrollar estrategias comerciales globales y analizar mercados internacionales. Su campo ocupacional incluye gestión de negocios y relaciones internacionales. Pueden integrarse en equipos de dirección internacional.",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Negocios Digitales",
+    "universidad": "Universidad Politécnica Salesiana (UPS)",
+    "puntaje": 855,
+    "campo": "Los profesionales de negocios digitales pueden trabajar en empresas de tecnología y comercio electrónico. Pueden desarrollar estrategias de marketing y ventas en línea. Su campo ocupacional incluye creación y gestión de contenido digital. Pueden trabajar en equipos de marketing digital.",
+    "area": "contabilidad",
+    "malla": [
+      "Marketing Digital y Comercio Electrónico",
+      "Programación Web y Análisis de Datos",
+      "Desarrollo de Aplicaciones Móviles"
+    ]
+  },
+  {
+    "carrera": "Marketing",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 855,
+    "campo": "Los profesionales de marketing pueden trabajar en empresas de diversos sectores. Pueden diseñar y ejecutar campañas publicitarias y estrategias de mercado. Su campo ocupacional incluye análisis de mercados y comportamiento del consumidor. Pueden trabajar en equipos de marketing.",
+    "area": "contabilidad",
+    "malla": [
+      "Marketing Básico y Avanzado",
+      "Estadística y Economía",
+      "Psicología y Marketing Digital"
+    ]
+  },
+  {
+    "carrera": "Comunicación Social",
+    "universidad": "Universidad Tecnológica ECOTEC",
+    "puntaje": 727,
+    "campo": "Los profesionales de comunicación social pueden trabajar en medios, publicidad y relaciones públicas. Pueden diseñar y ejecutar estrategias de comunicación. Su campo ocupacional incluye creación y gestión de contenido mediático. Pueden trabajar en equipos de comunicación y marketing.",
+    "area": "contabilidad",
+    "malla": [
+      "Comunicación Básica y Organizacional",
+      "Psicología y Sociología",
+      "Periodismo y Relaciones Públicas"
+    ]
+  },
+  {
+    "carrera": "Comunicación Social",
+    "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
+    "puntaje": 934,
+    "campo": "Los profesionales de comunicación social pueden trabajar en medios, publicidad y relaciones públicas. Pueden diseñar y ejecutar estrategias de comunicación. Su campo ocupacional incluye creación y gestión de contenido mediático. Pueden trabajar en equipos de comunicación y marketing.",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Comunicación Social",
+    "universidad": "Universidad de Guayaquil (UG)",
+    "puntaje": 865,
+    "campo": "Los profesionales de comunicación social pueden trabajar en medios, publicidad y relaciones públicas. Pueden diseñar y ejecutar estrategias de comunicación. Su campo ocupacional incluye creación y gestión de contenido mediático. Pueden trabajar en equipos de comunicación y marketing.",
+    "area": "contabilidad"
+  }
+]

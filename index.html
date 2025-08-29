@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>VocaTest - Test Vocacional</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="scripts/index.js" defer></script>
+</head>
+<body>
+
+<main>
+  <!-- Inicio -->
+  <div class="inic" id="inicio">
+    <img src="lom-inic.png" class="lom-inic" alt="Logo LOM" />
+    <br>
+    <img src="vt-inic.png" class="vt-inic" alt="Logo VocaTest" />
+    <p id="text-inic">¡Bienvenido a VocaTest!</p>
+    <button id="inic-inicio">Iniciar</button>
+  </div>
+
+  <!-- Nivel Educativo -->
+  <div class="nived" id="nivel-educativo" style="display:none;">
+    <img src="vt-nived.png" id="vt-nived" alt="Isologo VocaTest" />
+    <p id="text-nived">Selecciona el nivel educativo al que perteneces:</p>
+    <div class="opciones-botones">
+      <button id="bs-nived" data-nivel="basica-superior">Básica Superior</button>
+      <button id="bach-nived" data-nivel="bachillerato">Bachillerato</button>
+    </div>
+  </div>
+
+  <!-- Test Básica Superior -->
+  <div class="test" id="test-bs" style="display:none;">
+    <img src="vt-test.png" class="vt-test" alt="Logo Vocatest" />
+    <p id="text-bs">Test de Orientación para Básica Superior</p>
+    <form id="form-bs"></form>
+    <button id="fin-bs" type="button">Finalizar</button>
+  </div>
+  <script src="scripts/test-bs.js"></script>
+
+  <!-- Test Bachillerato -->
+  <div class="test" id="test-bach" style="display:none;">
+    <img src="vt-test.png" class="vt-test" alt="Logo Vocatest" />
+    <p id="text-bach">Test de Orientación para Bachillerato</p>
+    <form id="form-bach"></form>
+    <button id="fin-bach" type="button">Finalizar</button>
+  </div>
+  <script src="scripts/test-bach.js" defer></script>
+</main>
+
+<!-- Pie de página -->
+<footer>
+  <p>VocaTest, 2025. Toda la información ha sido recopilada y RESUMIDA de medios oficiales, se recomienda investigar más.</p>
+</footer>
+
+</body>
+</html>

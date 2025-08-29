@@ -1,0 +1,555 @@
+/* ============================= */
+/*          RESET GENERAL        */
+/* ============================= */
+* {
+    margin: 0.5rem;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: #FFF7C6;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+
+footer {
+position: fixed;
+bottom: 0;
+left: 0;
+width: 100%;
+text-align: center;
+background-color: #b75d06; /* Color café */
+color: white;
+font-size: 0.8rem;
+box-sizing: border-box;
+}
+
+/* ============================= */
+/*             BOTONES           */
+/* ============================= */
+button {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #f5a906;
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 0 3px 4px #b75d06;
+    cursor: pointer;
+    padding: 1rem;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 0 3px 6px #b75d06;
+    transition: background 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background: #b75d06;
+    transform: translateY(-3px);
+}
+
+/* Botones centrados y fijos */
+.boton-fijo {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+}
+
+/* Botones en fila (ej: opciones Sí/No, Becas/Admisión) */
+.opciones,
+.opciones-botones {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+/* Carreras universitarias */
+.carrera-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #ffdf4a;
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 0 3px 6px #b75d06;
+    cursor: pointer;
+    padding: 1rem;
+    border: none;
+    box-shadow: 0 1.5px 3px #b75d06;
+    transition: background 0.3s, transform 0.3s;
+}
+
+.carrera-box:hover {
+    background: #f5a906;
+    transform: translateY(-3px);
+}
+
+/* ============================= */
+/*             IMÁGENES          */
+/* ============================= */
+.lom-inic, .vt-inic, .vt-nived, .vt-test {
+    display: block;      
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lom-inic { width: 8rem; max-width: 100%; }
+.vt-inic { width: 33rem; max-width: 100%; margin-bottom: 20px; }
+.vt-nived { width: 25rem; max-width: 100%; }
+.vt-test { width: 10rem; max-width: 100%; }
+
+/* Ajustar el espaciado de la imagen */
+.vt-test {
+    display: block;
+    margin: 2rem auto; /* Centra la imagen y agrega espacio arriba y abajo */
+}
+
+/* ============================= */
+/*              INICIO           */
+/* ============================= */
+.inic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+#text-inic {
+    font-size: 1.5rem;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+/* ============================= */
+/*         NIVEL EDUCATIVO       */
+/* ============================= */
+.nived {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#text-nived {
+    font-size: 1.5rem;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+/* ============================= */
+/*              TEST             */
+/* ============================= */
+.test,
+.test-bs,
+.test-bach form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    text-align: center;
+}
+
+#text-bs,
+#text-bach {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.pregunta {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.opciones button:hover,
+.opciones button.selected,
+#fin-bs:hover,
+#fin-bach:hover {
+    background: #b75d06;
+    transform: translateY(-3px);
+    color: white;
+}
+
+/* ============================= */
+/*          ESPECIALIDADES       */
+/* ============================= */
+#text-espbs,
+#descripcion-bs,
+#resultado-bs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#text-espbs {
+    font-size: 1.5rem;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+#resultado-bs {
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+#descripcion-bs {
+    font-size: 1.3rem;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+/* ============================= */
+/*       CARRERAS UNIVERSITARIAS */
+/* ============================= */
+.titulo-fijo,
+.elige-carrera,
+.subtitulo,
+h2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #000000;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+.subtitulo {
+text-align: center;
+  margin: 20px 0 10px; /* Espaciado superior e inferior */
+font-size: 1.5rem;
+  color: #000; /* Cambia el color según tu diseño */
+font-weight: bold;
+}
+
+.especialidad {
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+    color: #000000;
+    margin-bottom: 1rem;
+}
+
+/* Links de Becas y Admisión */
+.info-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #032d86;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+    display: block;
+    margin-top: 20px;
+}
+
+/* ============================= */
+/*       DETALLE DE CARRERA      */
+/* ============================= */
+.cuadro-detalle {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background-color: transparent;
+    border-radius: 10px;
+    box-shadow: 0 1.5px 3px #b75d06;
+}
+
+/* ============================= */
+/*      DETALLE DE CARRERA       */
+/* ============================= */
+.cuadro-detalle {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: transparent;
+    border: 3px solid #b75d06;
+    border-radius: 10px;
+    box-shadow: 0 1.5px 3px #b75d06;
+}
+
+.cuadro-detalle .section {
+    background-color: #ffdf4a; 
+    border-left: 4px solid #b75d06;
+    border-radius: 6px;
+    margin-bottom: 2.5rem;
+    padding: 1rem;
+    box-shadow: 0 3px 6px #b75d06;
+}
+
+.cuadro-detalle .section div {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0.3rem;
+}
+
+.cuadro-detalle .section p,
+.cuadro-detalle .section ul {
+    font-size: 1.3rem;
+    margin-top: 0.3rem;
+}
+
+
+#titulo-carrera {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 2rem 0; 
+}
+
+.subtitulo-detalle {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.contenidoy {
+    font-size: 1.3rem;
+    font-weight: normal;
+    margin-bottom: 1rem;
+}
+
+.campo-ocupacional {
+    margin-top: 1rem;
+}
+
+/* ======================== */
+/*           BECAS          */
+/* ======================== */
+.cuadro-becas {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: transparent;
+    border: 3px solid #b75d06;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 1.5px 3px #b75d06;
+}
+
+.titulo-becas {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.universidad {
+    background-color: #ffdf4a;
+    border-left: 4px solid #b75d06;
+    box-shadow: 0 1.5px 3px #b75d06;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.universidad strong {
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.universidad .tipo-beca {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.cuadro-becas .redes {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 0; 
+}
+
+.cuadro-becas .redes a {
+    text-decoration: none;
+    color: #333;
+    display: flex;
+    align-items: center; 
+}
+
+.cuadro-becas .redes a + a::before {
+    content: "|";
+    margin: 0 0.5rem; 
+    color: #333;
+    display: inline-block;
+    vertical-align: middle; 
+}
+
+.cuadro-becas .boton-fijo {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+/* ============================= */
+/*       REGISTRO ÚNICO          */
+/* ============================= */
+.cuadro-registro {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: transparent;
+    border: 3px solid #b75d06;
+    border-radius: 10px;
+    text-align: justify;
+    box-shadow: 0 1.5px 3px #b75d06;
+}
+
+.titulo-registro {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 0rem;
+}
+
+.cuadro-registro h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: 0.8rem;
+}
+
+.cuadro-registro ol,
+.cuadro-registro ul {
+    font-size: 1.3rem;
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.cuadro-registro ol li::marker {
+    font-weight: bold;
+}
+
+.cuadro-registro img,
+.cuadro-registro .redes,
+.cuadro-registro .boton-fijo,
+#registro-unico img,
+#registro-unico .redes,
+#registro-unico .boton-fijo {
+    display: flex;
+    justify-content: center;
+    margin: 1rem auto;
+}
+
+.cuadro-registro .redes a {
+    text-decoration: none;
+    color: #333;
+    display: flex;
+    align-items: center;
+}
+
+.cuadro-registro .redes a + a::before {
+    content: "|";
+    margin: 0 0.5rem;
+    color: #333;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.cuadro-registro .boton-fijo {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+/* ============================= */
+/*             AREAS             */
+/* ============================= */
+.titulo-area {
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+    color: #000000;
+    margin-bottom: 1rem;
+}
+
+.subtitulo-area {
+    font-size: 16px;
+    color: #cccccc;
+    margin-bottom: 16px;
+}
+
+.redes a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: #333;
+}
+
+.redes a i {
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+.redes a:hover {
+    color: #0077ff;
+}
+
+.universidad-item {
+margin-bottom: 20px;
+}
+
+
+.universidades {
+    display: flex;
+    flex-direction: column; 
+    gap: 20px; 
+    margin-top: 20px;
+}
+
+.universidad-cuadro {
+    background-color: #ffdf4a;
+    border-left: 4px solid #b75d06;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    padding: 0.9rem;
+    box-shadow: 0 3px 6px #b75d06;
+}
+
+.universidad-nombre {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Estilo para el puntaje */
+.universidad-puntaje {
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.cuadro-detalle .section {
+    margin-bottom: 2.5rem;
+}
+
+.subtitulo + .universidades {
+    margin-top: 2.5rem;
+}
