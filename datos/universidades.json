@@ -225,7 +225,7 @@
     "universidad": "Universidad de Guayaquil (UG)",
     "puntaje": 841,
     "campo": "El biólogo puede trabajar en investigación, conservación, educación y gestión ambiental. Desarrolla estudios sobre organismos vivos y ecosistemas, participa en proyectos de sostenibilidad y protección ambiental. Puede integrarse en laboratorios, universidades y ONG’s. Su labor es clave para el avance del conocimiento biológico y la conservación de la biodiversidad.",
-    "area": "ciencias",
+    "area": "ciencia",
     "malla": [
       "Biología General y Celular",
       "Química General y Orgánica",
@@ -238,14 +238,14 @@
     "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
     "puntaje": 726,
     "campo": "El biólogo puede trabajar en investigación, conservación, educación y gestión ambiental. Desarrolla estudios sobre organismos vivos y ecosistemas, participa en proyectos de sostenibilidad y protección ambiental. Puede integrarse en laboratorios, universidades y ONG’s. Su labor es clave para el avance del conocimiento biológico y la conservación de la biodiversidad.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Ingeniería Química",
     "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
     "puntaje": 771,
     "campo": "El ingeniero químico se especializa en la producción, control y optimización de procesos químicos. Puede trabajar en industrias de alimentos, farmacéutica, petroquímica y manufactura. Su labor incluye investigación y desarrollo de nuevos productos y procesos. También puede liderar proyectos de innovación tecnológica en la industria química.",
-    "area": "ciencias",
+    "area": "ciencia",
     "malla": [
       "Cálculo y Física Aplicada",
       "Química General y Termodinámica",
@@ -257,14 +257,14 @@
     "universidad": "Universidad de Guayaquil (UG)",
     "puntaje": 832,
     "campo": "El ingeniero químico se especializa en la producción, control y optimización de procesos químicos. Puede trabajar en industrias de alimentos, farmacéutica, petroquímica y manufactura. Su labor incluye investigación y desarrollo de nuevos productos y procesos. También puede liderar proyectos de innovación tecnológica en la industria química.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Ingeniería en Alimentos",
     "universidad": "Universidad de Guayaquil (UG)",
     "puntaje": 766,
     "campo": "El profesional en Ingeniería en Alimentos puede trabajar en la producción, control de calidad y desarrollo de nuevos productos alimenticios. Participa en investigación y gestión de procesos seguros y sostenibles. Puede desempeñarse en industrias alimentarias, laboratorios de control y empresas de nutrición. También contribuye a la innovación y seguridad en la industria alimentaria.",
-    "area": "ciencias",
+    "area": "ciencia",
     "malla": [
       "Cálculo y Física Aplicada",
       "Química de Alimentos y Microbiología",
@@ -276,14 +276,14 @@
     "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
     "puntaje": 677,
     "campo": "El profesional en Ingeniería en Alimentos puede trabajar en la producción, control de calidad y desarrollo de nuevos productos alimenticios. Participa en investigación y gestión de procesos seguros y sostenibles. Puede desempeñarse en industrias alimentarias, laboratorios de control y empresas de nutrición. También contribuye a la innovación y seguridad en la industria alimentaria.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Biomedicina",
     "universidad": "Universidad Politécnica Salesiana (UPS)",
     "puntaje": 746,
     "campo": "El biomédico puede trabajar en investigación, diagnóstico clínico, desarrollo de tratamientos y biotecnología. Participa en laboratorios, hospitales y empresas farmacéuticas. Su labor es clave en la innovación de técnicas médicas y desarrollo de nuevas terapias. También contribuye a la mejora de la salud pública y la investigación biomédica.",
-    "area": "ciencias",
+    "area": "ciencia",
     "malla": [
       "Biología Molecular y Celular",
       "Química General y Orgánica",
@@ -296,7 +296,7 @@
     "universidad": "Escuela Superior Politécnica del Litoral (ESPOL)",
     "puntaje": 850,
     "campo": "El nutricionista puede trabajar en clínicas, hospitales, empresas de alimentos y educación. Diseña programas de alimentación saludable, planes dietéticos y campañas de educación nutricional. Participa en investigación y desarrollo de alimentos funcionales. Su labor es clave para la promoción de la salud y prevención de enfermedades.",
-    "area": "ciencias",
+    "area": "ciencia",
     "malla": [
       "Biología General y Nutrición",
       "Química General y Dietética",
@@ -308,35 +308,35 @@
     "universidad": "Universidad de Guayaquil (UG)",
     "puntaje": 884,
     "campo": "El nutricionista puede trabajar en clínicas, hospitales, empresas de alimentos y educación. Diseña programas de alimentación saludable, planes dietéticos y campañas de educación nutricional. Participa en investigación y desarrollo de alimentos funcionales. Su labor es clave para la promoción de la salud y prevención de enfermedades.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Nutrición y Dietética",
     "universidad": "Universidad Tecnológica ECOTEC",
     "puntaje": null,
     "campo": "El nutricionista puede trabajar en clínicas, hospitales, empresas de alimentos y educación. Diseña programas de alimentación saludable, planes dietéticos y campañas de educación nutricional. Participa en investigación y desarrollo de alimentos funcionales. Su labor es clave para la promoción de la salud y prevención de enfermedades.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Nutrición y Dietética",
     "universidad": "Universidad de Especialidades Espíritu Santo (UEES)",
     "puntaje": null,
     "campo": "El nutricionista puede trabajar en clínicas, hospitales, empresas de alimentos y educación. Diseña programas de alimentación saludable, planes dietéticos y campañas de educación nutricional. Participa en investigación y desarrollo de alimentos funcionales. Su labor es clave para la promoción de la salud y prevención de enfermedades.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Nutrición y Dietética",
     "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
     "puntaje": 896,
     "campo": "El nutricionista puede trabajar en clínicas, hospitales, empresas de alimentos y educación. Diseña programas de alimentación saludable, planes dietéticos y campañas de educación nutricional. Participa en investigación y desarrollo de alimentos funcionales. Su labor es clave para la promoción de la salud y prevención de enfermedades.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Bioquímica y Farmacia",
     "universidad": "Universidad de Guayaquil (UG)",
     "puntaje": 861,
     "campo": "Los bioquímicos y farmacéuticos pueden trabajar en empresas farmacéuticas y laboratorios de investigación. Pueden estudiar la química y biología de los seres vivos, desarrollando medicamentos y tratamientos. Su campo ocupacional incluye el desarrollo y control de calidad de productos farmacéuticos. Pueden integrarse en equipos de investigación y desarrollo.",
-    "area": "ciencias",
+    "area": "ciencia",
     "malla": [
       "Química General y Orgánica",
       "Bioquímica y Farmacología",
@@ -349,7 +349,7 @@
     "universidad": "Universidad de Guayaquil (UG)",
     "puntaje": 805,
     "campo": "Los ingenieros agropecuarios pueden trabajar en empresas agrícolas y ganaderas. Pueden diseñar y desarrollar sistemas de producción y gestión de recursos naturales. Su campo ocupacional incluye la producción y gestión de recursos naturales. Pueden trabajar en equipos de producción y gestión.",
-    "area": "ciencias",
+    "area": "ciencia",
     "malla": [
       "Cálculo y Física Aplicada",
       "Agronomía y Zootecnia",
@@ -362,14 +362,14 @@
     "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
     "puntaje": null,
     "campo": "Los ingenieros agropecuarios pueden trabajar en empresas agrícolas y ganaderas. Pueden diseñar y desarrollar sistemas de producción y gestión de recursos naturales. Su campo ocupacional incluye la producción y gestión de recursos naturales. Pueden trabajar en equipos de producción y gestión.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Medicina",
     "universidad": "Universidad de Especialidades Espíritu Santo (UEES)",
     "puntaje": 944,
     "campo": "Los médicos pueden trabajar en hospitales, clínicas y centros de salud. Pueden diagnosticar y tratar enfermedades, participar en investigación médica y coordinar programas de salud. Su campo ocupacional incluye atención directa al paciente y prevención de enfermedades. Pueden formar parte de equipos médicos multidisciplinarios.",
-    "area": "ciencias",
+    "area": "ciencia",
     "malla": [
       "Anatomía y Fisiología Humana",
       "Bioquímica y Farmacología",
@@ -381,28 +381,28 @@
     "universidad": "Universidad Tecnológica ECOTEC",
     "puntaje": 944,
     "campo": "Los médicos pueden trabajar en hospitales, clínicas y centros de salud. Pueden diagnosticar y tratar enfermedades, participar en investigación médica y coordinar programas de salud. Su campo ocupacional incluye atención directa al paciente y prevención de enfermedades. Pueden formar parte de equipos médicos multidisciplinarios.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Medicina",
     "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
     "puntaje": 968,
     "campo": "Los médicos pueden trabajar en hospitales, clínicas y centros de salud. Pueden diagnosticar y tratar enfermedades, participar en investigación médica y coordinar programas de salud. Su campo ocupacional incluye atención directa al paciente y prevención de enfermedades. Pueden formar parte de equipos médicos multidisciplinarios.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Medicina",
     "universidad": "Universidad de Guayaquil (UG)",
     "puntaje": 894,
     "campo": "Los médicos pueden trabajar en hospitales, clínicas y centros de salud. Pueden diagnosticar y tratar enfermedades, participar en investigación médica y coordinar programas de salud. Su campo ocupacional incluye atención directa al paciente y prevención de enfermedades. Pueden formar parte de equipos médicos multidisciplinarios.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Veterinaria",
     "universidad": "Universidad Católica de Santiago de Guayaquil (UCSG)",
     "puntaje": 775,
     "campo": "Los veterinarios pueden trabajar en clínicas, hospitales veterinarios y laboratorios. Pueden diagnosticar y tratar enfermedades en animales. Su campo ocupacional incluye investigación y cuidado de animales. Pueden participar en programas de salud pública y control sanitario.",
-    "area": "ciencias",
+    "area": "ciencia",
     "malla": [
       "Anatomía y Fisiología Animal",
       "Bioquímica y Patología",
@@ -414,21 +414,21 @@
     "universidad": "Universidad de Guayaquil (UG)",
     "puntaje": 845,
     "campo": "Los veterinarios pueden trabajar en clínicas, hospitales veterinarios y laboratorios. Pueden diagnosticar y tratar enfermedades en animales. Su campo ocupacional incluye investigación y cuidado de animales. Pueden participar en programas de salud pública y control sanitario.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Veterinaria",
     "universidad": "Universidad Agraria del Ecuador (UAE)",
     "puntaje": 769,
     "campo": "Los veterinarios pueden trabajar en clínicas, hospitales veterinarios y laboratorios. Pueden diagnosticar y tratar enfermedades en animales. Su campo ocupacional incluye investigación y cuidado de animales. Pueden participar en programas de salud pública y control sanitario.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Veterinaria",
     "universidad": "Universidad Tecnológica ECOTEC",
     "puntaje": 848,
     "campo": "Los veterinarios pueden trabajar en clínicas, hospitales veterinarios y laboratorios. Pueden diagnosticar y tratar enfermedades en animales. Su campo ocupacional incluye investigación y cuidado de animales. Pueden participar en programas de salud pública y control sanitario.",
-    "area": "ciencias"
+    "area": "ciencia"
   },
   {
     "carrera": "Contabilidad y Auditoría",
