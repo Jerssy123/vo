@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Becas Universitarias - Provincia del Guayas</title>
+  <title>Becas Universitarias</title>
   <link rel="stylesheet" href="style.css" />
   <!-- Font Awesome para iconos -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
@@ -75,10 +75,72 @@
       <a href="https://www.uce.edu.ec/" target="_blank">Más información</a>
     </div>
 
-    <div class="boton-fijo">
-      <button onclick="window.history.back()">Volver</button>
-    </div>
+  <div class="boton-fijo">
+    <button onclick="mostrarBecasInternacionales()">Becas Internacionales</button>
+    <button onclick="window.history.back()">Volver</button> 
   </div>
+
+
+
+<div id="becas-internacionales" style="display:none;    
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: transparent;
+    border: 3px solid #b75d06;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 1.5px 3px #b75d06;">
+  <h1 class="titulo-becas">Becas Internacionales</h1>
+  <div class="universidad">
+    <strong>Fundación Carolina (España)</strong>
+    <div class="tipo-beca">
+      Ofrece ocasionalmente becas para estudios completos de grado en España, destinadas a estudiantes latinoamericanos. Aunque la mayoría de sus líneas están enfocadas en posgrado, es recomendable revisar si hay convocatorias abiertas para pregrado.
+    </div>
+    <a href="https://gestion.fundacioncarolina.es/programas" target="_blank">Más información</a>
+  </div>
+  <div class="universidad">
+    <strong>Becas MEXT (Japón)</strong>
+    <div class="tipo-beca">
+      El Ministerio de Educación, Cultura, Deportes, Ciencia y Tecnología de Japón (MEXT) ofrece becas completas para estudios de licenciatura en universidades japonesas. Estas becas cubren matrícula, alojamiento, manutención y pasajes. La Embajada del Japón en Ecuador gestiona las postulaciones para estudiantes ecuatorianos.
+    </div>
+    <a href="https://www.ec.emb-japan.go.jp/itpr_ja/Becas.html" target="_blank">Más información</a>
+  </div>
+  <div class="universidad">
+    <strong>Becas Taiwán (MOE)</strong>
+    <div class="tipo-beca">
+      El Gobierno de Taiwán ofrece becas integrales para estudios de pregrado en Taiwán. Estas becas cubren matrícula, alojamiento, seguro y otros beneficios. La Oficina Comercial de Taipei en Ecuador gestiona las postulaciones para estudiantes ecuatorianos.
+    </div>
+    <a href="https://english.moe.gov.tw/cp-24-16833-23C09-1.html" target="_blank">Más información</a>
+  </div>
+  <div class="universidad">
+    <strong>Becas VLIR-UOS (Bélgica)</strong>
+    <div class="tipo-beca">
+      El programa VLIR-UOS ofrece becas completas para cursos de corta duración y programas de maestría en universidades de Bélgica. Aunque su enfoque principal es en posgrado, ocasionalmente se incluyen estudios de grado.
+    </div>
+    <a href="https://www.vliruos.be/" target="_blank">Más información</a>
+  </div>
+  <div class="universidad">
+    <strong>Becas Eiffel (Francia)</strong>
+    <div class="tipo-beca">
+      El programa de becas Eiffel está dirigido principalmente a estudios de maestría y doctorado en Francia. Sin embargo, algunas universidades francesas ofrecen apoyo parcial para estudiantes de licenciatura destacados.
+    </div>
+    <a href="https://www.campusfrance.org/es/el-programa-de-becas-france-excellence-eiffel-0" target="_blank">Más información</a>
+  </div>
+  <button class="btn-cerrar" onclick="ocultarBecasInternacionales()">Cerrar</button>
+</div>
+
+  <script>
+    function mostrarBecasInternacionales() {
+      document.getElementById('becas-internacionales').style.display = 'block';
+      window.scrollTo({ top: document.getElementById('becas-internacionales').offsetTop - 20, behavior: 'smooth' });
+    }
+    function ocultarBecasInternacionales() {
+      document.getElementById('becas-internacionales').style.display = 'none';
+    }
+  </script>
+
+  <script src="scripts/detalle-carrera.js"></script>
 
   <footer>
     <p>VocaTest, 2025. Toda la información ha sido recopilada y RESUMIDA de medios oficiales, se recomienda investigar más.</p>

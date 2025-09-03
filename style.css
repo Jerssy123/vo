@@ -27,7 +27,7 @@ width: 100%;
 text-align: center;
 background-color: #b75d06; /* Color café */
 color: white;
-font-size: 0.8rem;
+font-size: 0.95rem;
 box-sizing: border-box;
 }
 
@@ -35,7 +35,7 @@ box-sizing: border-box;
 /*             BOTONES           */
 /* ============================= */
 button {
-    width: 300px;
+    width: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -43,7 +43,7 @@ button {
     text-align: center;
     background-color: #f5a906;
     color: #ffffff;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
     text-shadow: 0 3px 4px #b75d06;
     cursor: pointer;
@@ -81,9 +81,9 @@ button:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color: #ffdf4a;
+    background-color: #f5a906;
     color: #ffffff;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
     text-shadow: 0 3px 6px #b75d06;
     cursor: pointer;
@@ -94,7 +94,7 @@ button:hover {
 }
 
 .carrera-box:hover {
-    background: #f5a906;
+    background: #b75d06;
     transform: translateY(-3px);
 }
 
@@ -130,7 +130,7 @@ button:hover {
 }
 
 #text-inic {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: #000000;
     margin-bottom: 20px;
 }
@@ -147,7 +147,7 @@ button:hover {
 }
 
 #text-nived {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: #000000;
     margin-bottom: 20px;
 }
@@ -169,14 +169,14 @@ button:hover {
 
 #text-bs,
 #text-bach {
-    font-size: 3rem;
+    font-size: 3.5rem;
     font-weight: bold;
     color: #000000;
     margin-bottom: 20px;
 }
 
 .pregunta {
-    font-size: 1.5rem;
+    font-size: 2rem;
     margin-bottom: 20px;
 }
 
@@ -203,18 +203,18 @@ button:hover {
 }
 
 #text-espbs {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: #000000;
     margin-bottom: 20px;
 }
 
 #resultado-bs {
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 3.5rem;
 }
 
 #descripcion-bs {
-    font-size: 1.3rem;
+    font-size: 1.8rem;
     color: #000000;
     margin-bottom: 20px;
 }
@@ -231,7 +231,7 @@ h2 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: #000000;
     margin-bottom: 20px;
     font-weight: normal;
@@ -240,7 +240,7 @@ h2 {
 .subtitulo {
 text-align: center;
   margin: 20px 0 10px; /* Espaciado superior e inferior */
-font-size: 1.5rem;
+font-size: 2rem;
   color: #000; /* Cambia el color según tu diseño */
 font-weight: bold;
 }
@@ -248,7 +248,7 @@ font-weight: bold;
 .especialidad {
     text-align: center;
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 3.5rem;
     color: #000000;
     margin-bottom: 1rem;
 }
@@ -303,34 +303,34 @@ font-weight: bold;
 }
 
 .cuadro-detalle .section div {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
     margin-bottom: 0.3rem;
 }
 
 .cuadro-detalle .section p,
 .cuadro-detalle .section ul {
-    font-size: 1.3rem;
+    font-size: 1.8rem;
     margin-top: 0.3rem;
 }
 
 
 #titulo-carrera {
     text-align: center;
-    font-size: 3rem;
+    font-size: 3.5rem;
     font-weight: bold;
     margin: 2rem 0; 
 }
 
 .subtitulo-detalle {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
     margin-top: 1.5rem;
     margin-bottom: 0.5rem;
 }
 
 .contenidoy {
-    font-size: 1.3rem;
+    font-size: 1.8rem;
     font-weight: normal;
     margin-bottom: 1rem;
 }
@@ -344,7 +344,7 @@ font-weight: bold;
 /* ======================== */
 .cuadro-becas {
     max-width: 900px;
-    margin: 2rem auto;
+    margin: 1rem auto;
     padding: 2rem;
     background-color: transparent;
     border: 3px solid #b75d06;
@@ -355,9 +355,9 @@ font-weight: bold;
 
 .titulo-becas {
     text-align: center;
-    font-size: 3rem;
+    font-size: 3.5rem;
     font-weight: bold;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .universidad {
@@ -371,14 +371,14 @@ font-weight: bold;
 }
 
 .universidad strong {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
     display: block;
     margin-bottom: 0.5rem;
 }
 
 .universidad .tipo-beca {
-    font-size: 1.2rem;
+    font-size: 1.7rem;
     margin-bottom: 0.5rem;
 }
 
@@ -410,6 +410,23 @@ font-weight: bold;
     margin-top: 2rem;
 }
 
+.boton-fijo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin: 2rem 0;
+}
+
+.boton-fijo button {
+    width: 400px;
+}
+
+#becas-internacionales .btn-cerrar {
+    display: block;
+    margin: 25px auto 0 auto;
+}
+
 /* ============================= */
 /*       REGISTRO ÚNICO          */
 /* ============================= */
@@ -426,13 +443,13 @@ font-weight: bold;
 
 .titulo-registro {
     text-align: center;
-    font-size: 3rem;
+    font-size: 3.5rem;
     font-weight: bold;
     margin-bottom: 0rem;
 }
 
 .cuadro-registro h3 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
     margin-top: 1rem;
     margin-bottom: 0.8rem;
@@ -440,7 +457,7 @@ font-weight: bold;
 
 .cuadro-registro ol,
 .cuadro-registro ul {
-    font-size: 1.3rem;
+    font-size: 1.8rem;
     margin-left: 1.5rem;
     margin-bottom: 1rem;
 }
@@ -487,7 +504,7 @@ font-weight: bold;
 .titulo-area {
     text-align: center;
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 3.5rem;
     color: #000000;
     margin-bottom: 1rem;
 }
@@ -506,7 +523,7 @@ font-weight: bold;
 
 .redes a i {
     margin-right: 5px;
-    font-size: 18px;
+    font-size: 25px;
 }
 
 .redes a:hover {
@@ -536,14 +553,13 @@ margin-bottom: 20px;
 
 .universidad-nombre {
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
 }
 
-/* Estilo para el puntaje */
 .universidad-puntaje {
     text-align: center;
-    font-size: 1.3rem;
+    font-size: 1.8rem;
 }
 
 .cuadro-detalle .section {
@@ -552,4 +568,14 @@ margin-bottom: 20px;
 
 .subtitulo + .universidades {
     margin-top: 2.5rem;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 16px;
+    padding: 10px;
+  }
+  .menu {
+    flex-direction: column;
+  }
 }
