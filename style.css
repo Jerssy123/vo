@@ -569,3 +569,41 @@ margin-bottom: 20px;
 .subtitulo + .universidades {
     margin-top: 2.5rem;
 }
+
+/* ...existing code... */
+
+/* --- Agrega esto al final de style.css --- */
+@media (max-width: 600px) {
+  body {
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+  .cuadro-becas,
+  .cuadro-detalle,
+  .cuadro-registro {
+    padding: 1rem;
+    max-width: 98vw;
+    margin: 1rem auto;
+  }
+  .boton-fijo button,
+  button {
+    width: 98vw;
+    font-size: 1rem;
+    padding: 0.7rem;
+  }
+  .lom-inic, .vt-inic, .vt-nived, .vt-test {
+    max-width: 95vw;
+    height: auto;
+  }
+  .carrera-box {
+    max-width: 98vw;
+    font-size: 1rem;
+    padding: 0.7rem;
+  }
+  .titulo-becas,
+  .titulo-registro,
+  .especialidad,
+  #titulo-carrera {
+    font-size: 1.3rem;
+  }
+}
