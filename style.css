@@ -569,13 +569,3 @@ margin-bottom: 20px;
 .subtitulo + .universidades {
     margin-top: 2.5rem;
 }
-
-@media (max-width: 600px) {
-  body {
-    font-size: 16px;
-    padding: 10px;
-  }
-  .menu {
-    flex-direction: column;
-  }
-}
